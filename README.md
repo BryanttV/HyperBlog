@@ -6,6 +6,7 @@
 * Se aplican varios comandos usados generalmente en los proyectos.
 * Se dan consejos de como solucionar los errores mas comunes.
 * Se explica la importancia de Git para el control de versiones de los proyectos.
+* Prueba en el README.md
 
 _Se reciben donaciones, contacten con el Admin :v_
 
