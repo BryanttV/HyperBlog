@@ -4,7 +4,8 @@
 
 * En este repositorio se encuentra todo lo desarrollado durante el curso de Git y GitHub en la plataforma Platzi.
 * Se aplican varios comandos usados generalmente en los proyectos.
-* Se dan consejos de como solucionar los errores mas comunes
+* Se dan consejos de como solucionar los errores mas comunes.
+* Se explica la importancia de Git para el control de versiones de los proyectos.
 
 _Se reciben donaciones, contacten con el Admin :v_
 
