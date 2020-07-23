@@ -7,6 +7,7 @@
 * Se dan consejos de como solucionar los errores mas comunes.
 * Se explica la importancia de Git para el control de versiones de los proyectos.
 * Prueba en el README.md
+* Prueba 2 en el README.md
 
 _Se reciben donaciones, contacten con el Admin :v_
 
